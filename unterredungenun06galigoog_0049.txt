@@ -1,0 +1,54 @@
+Untcrrcdungcn und mathematischc Demonstraticncn ete. 47
+
+dic Fallzcit fhr R Ο gleich R E, dcl· Mittlcren zu OB, B A:
+fclglich ist ΑΕ die Fallzcit fhr'A O nach BA odcl· nach X A;
+aber dic Fallzcit fiir XA ist X A , weil BA dic Fallzeit sm·
+B A ist. Folglich sind, da X A glcich A E ist, dic Fallzeitcn
+einander gleich, q. c. (1.24)
+
+Probl. ΙΙΙ. Prcpcc. XV.
+
+»Eine Senkrcchtc und cinc gencigtc Ebcnc scien gegeben:
+cs soll in der untcrcn Strcckc der Senkrcchtcn [vom Schnitt-
+punktc mit der gencigtcn Ebcnc an] ein stcck bestimmt werden,
+welches in dcrsclhcn Zcit durchlaufcn wird, wic das gcgcbcnc
+sccck langs dcr Gcncigtcn nach dem Fall durch dic gegcbcnc
+Senkrechtc.c
+
+Dic Senkrcchtc AB {fig 69) sci A n
+
+⁵ gegeben und dic gencigtc Ebcnc ΒΟ.
+
+Im untcrcn Thcilc des Lethes AB
+soll cin sccck gesundcn wcrdcn, wel-
+
+ches heim Fallc von A aus in der-
+sclbcn zeit durchlaufcn wird, wic V h
+B Ο, gleichfalls vcn A aus. Man ’
+
+zichc dic Hcrizontalc AD, der dic ⁰
+vcrlhngcrtc gencigtc Ehcnc OB in
+
+D bcgcgnc. Dic mittlcrc Propor- ’
+
+thonale zu OD, DB sci DE, als-.
+
+daun machc man BF gleich BE, ὓ
+cndlich construirc man AG als dritte Fig· 69·
+Proporticnalc zu BA, AF,
+
+(BA:AF=AF:AG].
+
+'' Ich behcuptc, B G sci dic Strcckc, dic nach dem Fall durch
+AB in dcrsclbcn Zeit durchlaufcn with, wic dic Strcckc ΒΟ
+uhter dcrsclbcn Bcdingung. Dcnn sci dic Fallzcit durch AB
+durch AB bcmcsscn, sc ist dic Fallzcit durch DB glcich DB,
+und da DE dic mittlcrc Properticnalc ist zu BD, ΒΟ, sc ist
+DE dic Fallzcit fflr dic ganzo Streckc DO, und BE dicjcnigc
+fflr den Rest BC, wcnn dcr Fall in D bcginnt oder durch AB
+erfolgt war; hhnlich findet man BF als Fallzcit durch B G,
+untcr denselbcn Vcrbcdingungcn; aber BF ist gleich BE, wo-
+durch die Bchauptung crwicscn ist.
+
+ 
+
